@@ -1,0 +1,55 @@
+h1
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body
+{
+    color: white;
+    margin: 20px;
+    font-size: larger;
+    background-repeat: no-repeat no-repeat;
+    background-color: black;
+    background-size: 100%;
+    background-image: linear-gradient( to top, black 70%, transparent), url(imagens/c3f3fd34565f5b19705fe94744149de2.jpg);
+}
+
+footer
+{
+    text-align: center;
+    background-color: rgb(255, 208, 114);
+    color: black;
+}
+
+div
+{
+    color: black;
+    background-color: rgb(244, 176, 75);
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 1px;
+}
+
+a
+{
+    color: rgb(46, 180, 247);
+}
+
+a:hover
+{
+    color: rgb(0, 217, 251);
+    font-weight: bold;
+}
